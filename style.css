@@ -1,0 +1,2149 @@
+/* PHONE VIEW */
+@media only screen and (max-width: 600px){
+
+
+body{
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+.logo{
+    position: absolute;
+    left: 100px;
+    top: 25px;
+}
+
+.logo1_star1{
+  position: absolute;
+  top: 34px;
+  left: 207px;
+}
+
+.logo1_star2{
+  position: absolute;
+  top: 34px;
+  left: 188px;
+}
+
+.logo1_star3{
+  position: absolute;
+  top: 20px;
+  left: 197px;
+}
+
+.layer7{
+    position: absolute;
+    /* left: -100px; */
+    top: 100px;
+    z-index: -1;
+    width: 100vw;
+}
+
+.layer10{
+    position: absolute;
+  top: 100px; 
+  right: 0px;
+  width: 582px;
+  display: none;
+}
+
+.layer5{
+    position: absolute;
+    top: 388.487px;
+    right: 0px;
+    display: none;
+}
+
+.navbar {
+  position: relative;
+  left: 200px;
+    margin-top: 40px;
+    /* margin-right: 100px; */
+    text-align: right;
+    width: 400px;
+    display: none;
+  }
+
+.hrz-navbar{
+    display: inline;
+    margin-right: 50px;
+  }
+
+.hrz_navbar_css2{
+  color: black;
+  font-weight: bold;
+}
+
+.perfection{
+    color: white;
+    position: absolute;
+    top: 310px;
+    font-size: 50px;
+    left: 120px;
+}
+
+.invited-text{
+    position: absolute;
+    top: 365px;
+    font-size: 40px;
+    left: 120px;
+}
+
+.rmv_uline{
+    text-decoration: none;
+}
+
+.black_book_now{
+  position: absolute;
+  z-index: -2;
+  top: 450px;
+  width: 90%;
+  height: 150px;
+  left: 5%;
+}
+
+.Arrival{
+  position: absolute;
+  top: 470px;
+  left: 100px;
+  /* width: 10px;
+  height: 20px; */
+  /* overflow:auto; */
+}
+
+.arrival{
+  width: 140px;
+  height: 35px;
+  /* margin-left: 0px; */
+  position: relative;
+  left: -40px;
+
+}
+
+.departure{
+  width: 140px;
+  height: 35px;
+  margin-left: 20px;
+  position: relative;
+  left: -15px;
+}
+
+.room{
+  width: 140px;
+  height: 35px;
+  /* margin-left: 20px; */
+  position: absolute;
+  top: 60px;
+  left: -40px;
+}
+
+.state{
+  width: 140px;
+  height: 35px;
+  margin-left: 20px;
+  position: absolute;
+  top: 60px;
+  left: 136px;
+}
+
+.blue_box_book_now{
+  position: absolute;
+  z-index: -1;
+  top: 500px;
+  right: 40px;
+  width: 120px;
+  height: 40px;
+  margin-left: 20px;
+}
+
+.book_now_text{
+  position: absolute;
+  top: 493px;
+  right: 60px;
+  color: white;
+  font-size: large;
+}
+
+.blue_rec{
+  position: absolute;
+  top: 600px;
+  width: 90%;
+  left: 5%;
+}
+
+.award_winning_hotels{
+  position: absolute;
+  top: 600px;
+  left: 100px;
+  font-size: 2rem;
+}
+
+.div2{
+  position: absolute;
+  top: 680px;
+  /* margin-left: 10%; */
+}
+
+.div2_img1{
+  margin: 0 0 0 20px;
+  width: 250px;
+  height: 170px;
+
+}
+
+.div2_img2{
+  margin: 0 0 0 40px;
+  width: 250px;
+  height: 170px;
+}
+
+.div2_img3{
+  margin: 150px 20px;
+  width: 250px;
+  height: 170px;
+}
+/* >>???????????>>?????>> */
+.downtown{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  left: 7%;
+  top: 160px;
+}
+
+.downtown_text_div{
+  width: 250px;
+  height: 241px;
+  margin-left: 20px;
+  margin-top: 60px;
+}
+
+.downtown_text{
+  width: 240px;
+  position: absolute;
+  top: 210px;
+  margin-left: 5px;
+}
+
+.Environment1{
+  font-size:x-large;
+  font-weight: bolder;
+  position: absolute;
+  top: 160px;
+  right: 37px;
+
+}
+
+.Environment_text1{
+  position: absolute;
+  width: 240px;
+  height: 241px;
+  left: 57%;
+  top: 210px;
+}
+
+.Breakfast1{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  top: 480px;
+  left:13%;
+}
+
+.Breakfast_text1{
+  position: absolute;
+  width: 240px;
+  height: 241px;
+  left: 5%;
+  top: 520px;
+}
+
+
+
+
+
+
+
+
+/* -------------------------------------------------------------------------------------------- */
+
+.div3{
+  position: absolute;
+  top: 1300px;
+  margin-left: 10%;
+}
+
+.div3_img1{
+  margin: 0 0 0 20px;
+  width: 250px;
+  height: 170px;
+  position: absolute;
+  top: -296px;
+  left: 232px;
+}
+
+.div3_img2{
+  margin: 0 0 0 20px;
+  width: 250px;
+  height: 170px;
+  position: relative;
+  top: 20px;
+  left: -60px;
+}
+
+.div3_img3{
+  margin: 0 0 0 20px;
+  width: 250px;
+  height: 170px;
+  position: relative;
+  top: -154px;
+  left: 230px;
+}
+
+.downtown2{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  top: -140px;
+  left: 53%;
+}
+
+.downtown_text_div2{
+  width: 250px;
+  height: 241px;
+  margin-left: 20px;
+  margin-top: 60px;
+
+}
+
+.downtown_text2{
+  width: 240px;
+  position: absolute;
+  top: -100px;
+  left: 260px;
+}
+
+.Environment2{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  top: 175px;
+  left:3%;
+}
+
+.Environment_text2{
+  position: absolute;
+  width: 240px;
+  height: 241px;
+  left: -30px;
+  top: 220px;
+}
+
+.Breakfast2{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  top: 175px;
+  left:55%;
+}
+
+.Breakfast_text2{
+  position: absolute;
+  width: 240px;
+  height: 241px;
+  left: 50%;
+  top: 220px;
+}
+
+
+
+
+/* ---------------------------------------------------------------------------------------------------------------------------- */
+
+
+.div4{
+  width: 150px;
+  height: 60px;
+  border: solid blue;
+  position: absolute;
+  top: 1650px;
+  left: 37%;
+}
+
+.more{
+  margin-left: 26%;
+  margin-top: 11%;
+  font-size:x-large;
+  font-weight: bold;
+  color: blue;
+}
+
+
+
+.activities{
+  position: absolute;
+  top: 1750px;
+  left: 8%;
+  font-size: 3rem;
+}
+
+
+
+/* ------------------------------------------------------------------------------------ */
+
+.div5{
+  position: absolute;
+  top: 1900px;
+
+  overflow: auto;
+  white-space: nowrap;
+  height: 80%;
+  width: 100%;
+}
+
+.layer21{
+    position: absolute;
+    left:0px;
+    height: 598px;
+}
+
+.layer22{
+    position: absolute;
+    left: 295.812px;
+    height: 598px;
+}
+
+.layer20{
+    position: absolute;
+    left: 660.687px;
+    height: 598px;
+}
+
+.layer23{
+    position: absolute;
+    left: 615.687px;
+    height: 598px;
+    width: 320px;
+}
+
+.layer24{
+    position: absolute;
+    left: 1200px;
+    height: 598px;
+}
+
+/* ---------------------------------------------------------------------------------- */
+
+
+.div6{
+  position: absolute;
+  top: 2650px;
+  /* color: white; */
+  display: none;
+}
+
+.skiing{
+  position: absolute;
+  left: 40px;
+  font-size: 3rem;
+}
+
+.boarding{
+  position: absolute;
+  left: 320px;
+  font-size: 3rem;
+}
+
+.cycling{
+  position: absolute;
+  left: 650px;
+  font-size: 3rem;
+}
+
+.hiking{
+  position: absolute;
+  left: 970px;
+  font-size: 3rem;
+}
+
+.trekking{
+  position: absolute;
+  left: 1225px;
+  font-size: 3rem;
+}
+
+.skiing_text{
+  position: relative;
+  width: 300px;
+  left: 20px;
+  top: 80px;
+}
+
+.boarding_text{
+  position: absolute;                                             
+  width: 300px;
+  left: 310px;
+  top: 80px;
+}
+
+.cycling_text{
+  position: absolute;
+  width: 300px;
+  left: 630px;
+  top: 80px;
+}
+
+.hiking_text{
+  position: absolute;
+  width: 280px;
+  left: 950px;
+  top: 80px;
+}
+
+.trekking_text{
+  position: absolute;
+  width: 300px;
+  left: 1220px;
+  top: 80px;
+}
+
+/* =============================================================================================================================== */
+
+
+.deluxe_room{
+  position: absolute;
+  top: 2600px;
+  left:  12%;
+  width: 450px;
+}
+
+.div7{
+    position: absolute;
+    top: 2800px;
+}
+
+.layer4{
+  position: absolute;
+  top: 650px;
+  width: 250px;
+  padding-left: 20px;
+}
+
+.layer3{
+  position: absolute;
+  width: 100vw;
+}
+
+.layer17{
+  position: absolute;
+  top: 950px;
+  left: 20px;
+  width: 250px;
+}
+
+.layer15{
+  position: absolute;
+  top: 650px;
+  left: 310px;
+  width: 250px;
+  height: 180px;
+}
+
+.layer18{
+  position: absolute;
+  top: 950px;
+  left: 310px;
+  width: 250px;
+}
+
+.Magna1{
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 1;
+  position: relative;
+  top: 1100px;
+  left: 45px;
+}
+
+.Magna2{
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 1;
+  position: relative;
+  top: 780px;
+  left: 45px;
+}
+
+.Magna3{
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 1;
+  position: relative;
+  top: 740px;
+  left: 335px;
+}
+
+.Magna4{
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 1;
+  position: relative;
+  top: 975px;
+  left: 345px;
+}
+
+.Magna5{
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 1;
+  position: absolute;
+  top: 500px;
+  left: 35%;
+  width: 200px;
+}
+
+.Magna_text1{
+  position: relative;
+  top: 970px;
+  left: 20px;
+  width: 259px;
+}
+
+.Magna_text2{
+  position: relative;
+  top: 630px;
+  left: 20px;
+  width: 270px;
+}
+
+.Magna_text3{
+  position: relative;
+  top: 578px;
+  left: 310px;
+  width: 265px;
+}
+
+.Magna_text4{
+  position: relative;
+  top: 812px;
+  left: 310px;
+  width: 265px;
+}
+
+.Magna_text5{
+  position: relative;
+  top: 150px;
+  width: 580px;
+}
+
+/* ========================================================================================================================== */
+
+
+.extra_space{
+  position: absolute;
+  top: 5500px;
+  height: 20px;
+  width: 50px;
+} 
+
+.div8{
+  width: 150px;
+  height: 60px;
+  border: solid blue;
+  position: absolute;
+  top: 4050px;
+  left: 38%;
+}
+
+.div9{
+  position: absolute;
+  top: 4165px;
+  width: 500px;
+}
+
+.layer8{
+  width: 100vw;
+  z-index: -1;
+}
+
+.winter_weather{
+  position: absolute;
+  top: 40px;
+  left: 280px;
+  width: 50%;
+}
+
+.winter_weather_text{
+  position: absolute;
+  top: 150px;
+  color: rgb(77, 151, 197);
+  left: 285px;
+  width: 250px;
+  font-size: 16px;
+}
+
+.more3{
+  position: absolute;
+  top: 310px;
+  left: 220px;
+  width: 135px;
+  height: 50px;
+  background-color: blue;
+  color: white;
+}
+
+.more_text3{
+  position: absolute;
+  bottom: -4px;
+  left: 40px;
+}
+
+.more_a3{
+  text-decoration: none;
+  color: white;
+}
+
+/* ================================================================= */
+
+.news{
+  position: absolute;
+  top: 4580px;
+  left: 28%;
+  width: 50%;
+}
+
+.news_img{
+  margin-left: 20px;
+}
+
+.layer28{
+  position: absolute;
+  top: 4680px;
+  left: 20px;
+  width: 253px;
+  height: 261px;
+}
+
+.layer29{
+  position: absolute;
+  top: 4680px;
+  left: 55%;
+  width: 253px;
+  height: 261px;
+}
+
+.layer30{
+  position: absolute;
+  top: 4870px;
+  left: 67%;
+  width: 353px;
+  height: 361px;
+  display: none;
+}
+
+/* ==================================================================== */
+
+.news_texta{
+  position: absolute;
+  top: 4940px;
+  left: 10%;
+  font-weight: bold;
+  font-size: large;
+}
+
+.news_textb{
+  position: absolute;
+  top: 4940px;
+  left: 62%;
+  font-weight: bold;
+  font-size: large;
+}
+
+.news_textc{
+  position: absolute;
+  top: 5228px;
+  left: 67%;
+  font-weight: bold;
+  font-size: large;
+  display: none;
+}
+
+.news_text1{
+  position: absolute;
+  top: 4975px;
+  left: 20px;
+  width: 270px;
+  font-size: large;
+  font-weight: 100;
+}
+
+.news_text2{
+  position: absolute;
+  top: 4975px;
+  left: 55%;
+  width: 270px;
+  font-size: large;
+  font-weight: 100;
+}
+
+.news_text3{
+  position: absolute;
+  top: 5255px;
+  left: 67%;
+  width: 353px;
+  font-size: large;
+  font-weight: 100;
+  display: none;
+}
+
+.more4{
+  width: 150px;
+  height: 60px;
+  border: solid blue;
+  position: absolute;
+  top: 5120px;
+  left: 38%;
+}
+
+/* ------------------------------------------------------------------------------------------ */
+
+.div11{
+  background-color: rgb(22, 21, 21);
+  width: 100vw;
+  height: 300px;
+  position: absolute;
+  top: 5250px;
+}
+
+.logo2{
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+.logo2_star1{
+  position: absolute;
+  top: 54px;
+  left: 160px;
+}
+
+.logo2_star2{
+  position: absolute;
+  top: 54px;
+  left: 136px;
+}
+
+.logo2_star3{
+  position: absolute;
+  top: 39px;
+  left: 148px;
+}
+
+/* ----------------------------------------------------------------------------------------- */
+
+.location_logo{
+  position: absolute;
+  top: 130px;
+  left: 35px;
+}
+
+.phone_logo{
+  position: absolute;
+  top: 165px;
+  left: 35px;
+}
+
+.mail_logo{
+  position: absolute;
+  top: 210px;
+  left: 35px;
+}
+
+.location_text{
+  position: absolute;
+  top: 114px;
+  left: 65px;
+  color: white;
+}
+
+.phone_text{
+  position: absolute;
+  top: 150px;
+  left: 65px;
+  color: white;
+}
+
+.mail_text{
+  position: absolute;
+  top: 190px;
+  left: 65px;
+  color: white;
+}
+
+.home_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 115px;
+  left: 340px;
+}
+
+.about_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 145px;
+  left: 340px;
+}
+
+.rooms_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 176px;
+  left: 340px;
+}
+
+.portfolio_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 115px;
+  left: 450px;
+}
+
+.blog_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 145px;
+  left: 450px;
+}
+
+.partnership_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 175px;
+  left: 450px;
+}
+
+.contact_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 105px;
+  left: 960px;
+}
+
+.social{
+  color: white;
+  position: absolute;
+  top: 105px;
+  left: 1200px;
+}
+
+.social_rec1{
+  z-index: 1;
+  position: absolute;
+  top: 220px;
+  left: 340px;
+}
+
+.social_rec2{
+  z-index: 1;
+  position: absolute;
+  top: 220px;
+  left: 400px;
+}
+
+.social_rec3{
+  z-index: 1;
+  position: absolute;
+  top: 220px;
+  left: 460px;
+}
+
+.social_rec4{
+  z-index: 1;
+  position: absolute;
+  top: 220px;
+  left: 520px;
+}
+
+.social_logo1{
+  z-index: 1;
+  position: absolute;
+  top: 228px;
+  left: 352px;
+}
+
+.social_logo2{
+  z-index: 1;
+  position: absolute;
+  top: 231px;
+  left: 406px;
+}
+
+.social_logo3{
+  z-index: 1;
+  position: absolute;
+  top: 228px;
+  left: 468px;
+}
+
+.social_logo4{
+  z-index: 1;
+  position: absolute;
+  top: 227px;
+  left: 527px;
+}
+
+.footer_line{
+  position: absolute;
+  top: 260px;
+  left: 10%;
+}
+
+
+.navbar_phn_right{
+  position: absolute;
+  /* left: 320px; */
+  right: 50px;
+}
+
+/* Navbar container */
+.navbarPhn {
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial;
+  /* width: 310px; */
+  margin-top: 20px;
+}
+
+/* Links inside the navbar */
+.navbarPhn a {
+  float: left;
+  font-size: 13px;
+  color: white;
+  text-align: center;
+  padding: 17px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 13px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbarPhn a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.hamburger{
+  width: 30px;
+  height: 30px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------- */
+
+/* DESKTOP VIEW */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 601px){
+body{
+  overflow-x: hidden; 
+}
+
+.navbar_phn_right{
+  display: none;
+}
+
+.logo{
+    position: absolute;
+    left: 300px;
+    top: 25px;
+}
+
+.logo1_star1{
+  position: absolute;
+  top: 34px;
+  left: 407px;
+}
+
+.logo1_star2{
+  position: absolute;
+  top: 34px;
+  left: 388px;
+}
+
+.logo1_star3{
+  position: absolute;
+  top: 20px;
+  left: 397px;
+}
+
+.layer7{
+    position: absolute;
+    left: -100px;
+    top: 100px;
+    z-index: -1;
+}
+
+.layer10{
+    position: absolute;
+  top: 100px; 
+  right: 0px;
+  width: 582px;
+}
+
+.layer5{
+    position: absolute;
+    top: 388.487px;
+    right: 0px;
+}
+
+.navbar {
+    margin-top: 40px;
+    margin-right: 200px;
+    text-align: right;
+  }
+
+.hrz-navbar{
+    display: inline;
+    margin-right: 50px;
+  }
+
+.hrz_navbar_css2{
+  color: black;
+  font-weight: bold;
+}
+
+.perfection{
+    color: white;
+    position: absolute;
+    top: 585px;
+    font-size: 80px;
+    left: 320px;
+}
+
+.invited-text{
+    position: absolute;
+    top: 685px;
+    font-size: 50px;
+    left: 320px;
+}
+
+.rmv_uline{
+    text-decoration: none;
+}
+
+.black_book_now{
+  position: absolute;
+  z-index: -2;
+  top: 800px;
+  width: 70%;
+  height: 80px;
+  left: 250px;
+}
+
+.Arrival{
+  position: absolute;
+  top: 830px;
+  left: 300px;
+
+}
+
+.arrival{
+  width: 160px;
+  height: 35px;
+  margin-left: 10px;
+}
+
+.departure{
+  width: 160px;
+  height: 35px;
+  margin-left: 20px;
+}
+
+.room{
+  width: 160px;
+  height: 35px;
+  margin-left: 20px;
+}
+
+.state{
+  width: 160px;
+  height: 35px;
+  margin-left: 20px;
+}
+
+.blue_box_book_now{
+  position: absolute;
+  z-index: -1;
+  top: 830px;
+  left: 1050px;
+  width: 160px;
+  height: 40px;
+  margin-left: 20px;
+}
+
+.book_now_text{
+  position: absolute;
+  top: 823px;
+  left: 1108px;
+  color: white;
+  font-size: large;
+}
+
+.blue_rec{
+  position: absolute;
+  top: 880px;
+  width: 70%;
+  left: 250px;
+}
+
+.award_winning_hotels{
+  position: absolute;
+  top: 960px;
+  left: 465px;
+  font-size: 3rem;
+}
+
+.div2{
+  position: absolute;
+  top: 1100px;
+  margin-left: 10%;
+}
+
+.div2_img1{
+  margin: 0 20px;
+  width: 353px;
+  height: 241px;
+}
+
+.div2_img2{
+  margin: 0 20px;
+  width: 353px;
+  height: 241px;
+}
+
+.div2_img3{
+  margin: 0 20px;
+  width: 353px;
+  height: 241px;
+}
+
+.downtown{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  left: 7%;
+}
+
+.downtown_text_div{
+  width: 353px;
+  height: 241px;
+  margin-left: 20px;
+  margin-top: 60px;
+}
+
+.Environment1{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  top: 245px;
+  left:42%;
+}
+
+.Environment_text1{
+  position: absolute;
+  width: 353px;
+  height: 241px;
+  left: 35%;
+  top: 288px;
+}
+
+.Breakfast1{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  top: 244px;
+  left:77%;
+}
+
+.Breakfast_text1{
+  position: absolute;
+  width: 353px;
+  height: 241px;
+  left: 69%;
+  top: 288px;
+}
+
+
+
+
+
+
+
+
+/* -------------------------------------------------------------------------------------------- */
+
+.div3{
+  position: absolute;
+  top: 1500px;
+  margin-left: 10%;
+}
+
+.div3_img1{
+  margin: 0 20px;
+  width: 353px;
+  height: 241px;
+}
+
+.div3_img2{
+  margin: 0 20px;
+  width: 353px;
+  height: 241px;
+}
+
+.div3_img3{
+  margin: 0 20px;
+  width: 353px;
+  height: 241px;
+}
+
+.downtown{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  left: 7%;
+}
+
+.downtown2{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  left: 7%;
+}
+
+.downtown_text_div{
+  width: 353px;
+  height: 241px;
+  margin-left: 20px;
+  margin-top: 60px;
+}
+
+.downtown_text_div2{
+  width: 353px;
+  height: 241px;
+  margin-left: 20px;
+  margin-top: 60px;
+}
+
+.Environment{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  top: 245px;
+  left:42%;
+}
+
+.Environment2{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  top: 245px;
+  left:42%;
+}
+
+.Environment_text{
+  position: absolute;
+  width: 353px;
+  height: 241px;
+  left: 35%;
+  top: 288px;
+}
+
+.Environment_text2{
+  position: absolute;
+  width: 353px;
+  height: 241px;
+  left: 35%;
+  top: 288px;
+}
+
+.Breakfast{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  top: 244px;
+  left:77%;
+}
+
+.Breakfast2{
+  font-size:x-large;
+  font-weight: bold;
+  position: absolute;
+  top: 244px;
+  left:77%;
+}
+
+.Breakfast_text{
+  position: absolute;
+  width: 353px;
+  height: 241px;
+  left: 69%;
+  top: 288px;
+}
+
+.Breakfast_text2{
+  position: absolute;
+  width: 353px;
+  height: 241px;
+  left: 69%;
+  top: 288px;
+}
+
+
+
+
+/* ---------------------------------------------------------------------------------------------------------------------------- */
+
+
+.div4{
+  width: 150px;
+  height: 60px;
+  border: solid blue;
+  position: absolute;
+  top: 1950px;
+  left: 45%;
+}
+
+.more{
+  margin-left: 26%;
+  margin-top: 11%;
+  font-size:x-large;
+  font-weight: bold;
+  color: blue;
+}
+
+
+
+.activities{
+  position: absolute;
+  top: 2050px;
+  left: 31%;
+  font-size: 4rem;
+}
+
+
+
+/* ------------------------------------------------------------------------------------ */
+
+.div5{
+  position: absolute;
+  top: 2210px;
+}
+
+.layer21{
+    position: absolute;
+    left:0px;
+    height: 598px;
+}
+
+.layer22{
+    position: absolute;
+    left: 295.812px;
+    height: 598px;
+}
+
+.layer20{
+    position: absolute;
+    left: 660.687px;
+    height: 598px;
+}
+
+.layer23{
+    position: absolute;
+    left: 615.687px;
+    height: 598px;
+    width: 320px;
+}
+
+.layer24{
+    position: absolute;
+    left: 1200px;
+    height: 598px;
+}
+
+/* ---------------------------------------------------------------------------------- */
+
+
+.div6{
+  position: absolute;
+  top: 2650px;
+  color: white;
+}
+
+.skiing{
+  position: absolute;
+  left: 40px;
+  font-size: 3rem;
+}
+
+.boarding{
+  position: absolute;
+  left: 320px;
+  font-size: 3rem;
+}
+
+.cycling{
+  position: absolute;
+  left: 650px;
+  font-size: 3rem;
+}
+
+.hiking{
+  position: absolute;
+  left: 970px;
+  font-size: 3rem;
+}
+
+.trekking{
+  position: absolute;
+  left: 1225px;
+  font-size: 3rem;
+}
+
+.skiing_text{
+  position: relative;
+  width: 300px;
+  left: 20px;
+  top: 80px;
+}
+
+.boarding_text{
+  position: absolute;                                             
+  width: 300px;
+  left: 310px;
+  top: 80px;
+}
+
+.cycling_text{
+  position: absolute;
+  width: 300px;
+  left: 630px;
+  top: 80px;
+}
+
+.hiking_text{
+  position: absolute;
+  width: 280px;
+  left: 950px;
+  top: 80px;
+}
+
+.trekking_text{
+  position: absolute;
+  width: 300px;
+  left: 1220px;
+  top: 80px;
+}
+
+/* =============================================================================================================================== */
+
+
+.deluxe_room{
+  position: absolute;
+  top: 2900px;
+  left: 35%;
+}
+
+.div7{
+    position: absolute;
+    top: 3150px;
+}
+
+.layer4{
+  position: absolute;
+  top: 0px;
+  left: 150px;
+  width: 290px;
+}
+
+.layer3{
+  position: absolute;
+  top: 0px;
+  left: 510px;
+}
+
+.layer17{
+  position: absolute;
+  top: 310px;
+  left: 150px;
+  width: 290px;
+}
+
+.layer15{
+  position: absolute;
+  top: 0px;
+  left: 1160px;
+  width: 285px;
+  height: 200px;
+}
+
+.layer18{
+  position: absolute;
+  top: 310px;
+  left: 1160px;
+  width: 290px;
+}
+
+.Magna1{
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 1;
+  position: relative;
+  top: 193px;
+  left: 150px;
+}
+
+.Magna2{
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 1;
+  position: relative;
+  top: 430px;
+  left: 150px;
+}
+
+.Magna3{
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 1;
+  position: relative;
+  top: 100px;
+  left: 1160px;
+}
+
+.Magna4{
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 1;
+  position: relative;
+  top: 350px;
+  left: 1160px;
+}
+
+.Magna5{
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 1;
+  position: absolute;
+  top: 490px;
+  left: 510px;
+  width: 200px;
+}
+
+.Magna_text1{
+  position: relative;
+  top: 50px;
+  left: 150px;
+  width: 290px;
+}
+
+.Magna_text2{
+  position: relative;
+  top: 280px;
+  left: 150px;
+  width: 290px;
+}
+
+.Magna_text3{
+  position: relative;
+  top: -65px;
+  left: 1160px;
+  width: 290px;
+}
+
+.Magna_text4{
+  position: relative;
+  top: 175px;
+  left: 1160px;
+  width: 290px;
+}
+
+.Magna_text5{
+  position: relative;
+  top: 140px;
+  left: 510px;
+  width: 586px;
+}
+
+/* ========================================================================================================================== */
+
+
+.extra_space{
+  position: absolute;
+  top: 5500px;
+  height: 20px;
+  width: 50px;
+} 
+
+.div8{
+  width: 150px;
+  height: 60px;
+  border: solid blue;
+  position: absolute;
+  top: 3800px;
+  left: 45%;
+}
+
+.div9{
+  position: absolute;
+  top: 3930px;
+  width: 500px;
+}
+
+.layer8{
+  width: 100vw;
+  z-index: -1;
+}
+
+.winter_weather{
+  position: absolute;
+  top: 160px;
+  left: 830px;
+}
+
+.winter_weather_text{
+  position: absolute;
+  top: 380px;
+  color: white;
+  left: 845px;
+  width: 400px;
+  font-size: 16px;
+}
+
+.more3{
+  position: absolute;
+  top: 480px;
+  left: 850px;
+  width: 135px;
+  height: 50px;
+  background-color: blue;
+  color: white;
+}
+
+.more_text3{
+  position: absolute;
+  bottom: -4px;
+  left: 40px;
+}
+
+.more_a3{
+  text-decoration: none;
+  color: white;
+}
+
+/* ================================================================= */
+
+.news{
+  position: absolute;
+  top: 4700px;
+  left: 30%;
+}
+
+.news_img{
+  margin-left: 20px;
+}
+
+.layer28{
+  position: absolute;
+  top: 4870px;
+  left: 15%;
+  width: 353px;
+  height: 361px;
+}
+
+.layer29{
+  position: absolute;
+  top: 4870px;
+  left: 41%;
+  width: 353px;
+  height: 361px;
+}
+
+.layer30{
+  position: absolute;
+  top: 4870px;
+  left: 67%;
+  width: 353px;
+  height: 361px;
+}
+
+/* ==================================================================== */
+
+.news_texta{
+  position: absolute;
+  top: 5228px;
+  left: 15%;
+  font-weight: bold;
+  font-size: large;
+}
+
+.news_textb{
+  position: absolute;
+  top: 5228px;
+  left: 41%;
+  font-weight: bold;
+  font-size: large;
+}
+
+.news_textc{
+  position: absolute;
+  top: 5228px;
+  left: 67%;
+  font-weight: bold;
+  font-size: large;
+}
+
+.news_text1{
+  position: absolute;
+  top: 5255px;
+  left: 15%;
+  width: 353px;
+  font-size: large;
+  font-weight: 100;
+}
+
+.news_text2{
+  position: absolute;
+  top: 5255px;
+  left: 41%;
+  width: 353px;
+  font-size: large;
+  font-weight: 100;
+}
+
+.news_text3{
+  position: absolute;
+  top: 5255px;
+  left: 67%;
+  width: 353px;
+  font-size: large;
+  font-weight: 100;
+}
+
+.more4{
+  width: 150px;
+  height: 60px;
+  border: solid blue;
+  position: absolute;
+  top: 5400px;
+  left: 45%;
+}
+
+/* ------------------------------------------------------------------------------------------ */
+
+.div11{
+  background-color: rgb(22, 21, 21);
+  width: 100vw;
+  height: 300px;
+  position: absolute;
+  top: 5550px;
+}
+
+.logo2{
+  position: absolute;
+  top: 50px;
+  left: 230px;
+}
+
+.logo2_star1{
+  position: absolute;
+  top: 54px;
+  left: 340px;
+}
+
+.logo2_star2{
+  position: absolute;
+  top: 54px;
+  left: 316px;
+}
+
+.logo2_star3{
+  position: absolute;
+  top: 39px;
+  left: 328px;
+}
+
+/* ----------------------------------------------------------------------------------------- */
+
+.location_logo{
+  position: absolute;
+  top: 130px;
+  left: 235px;
+}
+
+.phone_logo{
+  position: absolute;
+  top: 165px;
+  left: 235px;
+}
+
+.mail_logo{
+  position: absolute;
+  top: 210px;
+  left: 235px;
+}
+
+.location_text{
+  position: absolute;
+  top: 114px;
+  left: 265px;
+  color: white;
+}
+
+.phone_text{
+  position: absolute;
+  top: 150px;
+  left: 265px;
+  color: white;
+}
+
+.mail_text{
+  position: absolute;
+  top: 191px;
+  left: 265px;
+  color: white;
+}
+
+.home_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 105px;
+  left: 640px;
+}
+
+.about_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 135px;
+  left: 640px;
+}
+
+.rooms_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 165px;
+  left: 640px;
+}
+
+.portfolio_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 105px;
+  left: 790px;
+}
+
+.blog_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 135px;
+  left: 790px;
+}
+
+.partnership_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 165px;
+  left: 790px;
+}
+
+.contact_footer{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 105px;
+  left: 960px;
+}
+
+.social{
+  color: white;
+  position: absolute;
+  top: 105px;
+  left: 1200px;
+}
+
+.social_rec1{
+  z-index: 1;
+  position: absolute;
+  top: 160px;
+  left: 1200px;
+}
+
+.social_rec2{
+  z-index: 1;
+  position: absolute;
+  top: 160px;
+  left: 1250px;
+}
+
+.social_rec3{
+  z-index: 1;
+  position: absolute;
+  top: 160px;
+  left: 1300px;
+}
+
+.social_rec4{
+  z-index: 1;
+  position: absolute;
+  top: 160px;
+  left: 1350px;
+}
+
+.social_logo1{
+  z-index: 1;
+  position: absolute;
+  top: 168px;
+  left: 1213px;
+}
+
+.social_logo2{
+  z-index: 1;
+  position: absolute;
+  top: 171px;
+  left: 1257px;
+}
+
+.social_logo3{
+  z-index: 1;
+  position: absolute;
+  top: 168px;
+  left: 1308px;
+}
+
+.social_logo4{
+  z-index: 1;
+  position: absolute;
+  top: 167px;
+  left: 1358px;
+}
+
+.footer_line{
+  position: absolute;
+  top: 260px;
+  left: 10%;
+}
+
+}
